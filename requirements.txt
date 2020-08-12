@@ -2,3 +2,4 @@ datapane
 numpy
 pandas
 seaborn
+nbgitpuller
